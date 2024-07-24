@@ -25,7 +25,7 @@ O código contém comentários detalhados para facilitar a compreensão de cada 
 
 <h3>Possíveis Melhorias Futuras</h3>
 
-- Aprimoramento da Interface do Usuário: Melhorar a interface gráfica para tornar o uso do decodificador mais intuitivo e visualmente atraente.
+- Aprimoramento da Interface do Usuário: Melhorar a interface gráfica para tornar o uso do decodificador mais intuitivo.
 - Adição de Novas Funcionalidades: Implementar novas técnicas de criptografia ou permitir que o usuário escolha o valor de deslocamento.
 - Otimização do Código: Refatorar e otimizar o código para melhorar a eficiência e a legibilidade.
 
